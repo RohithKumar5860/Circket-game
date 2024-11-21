@@ -11,7 +11,7 @@ The scoring mechanism dynamically tracks runs, wickets, and overs, while randomi
 
 With its simple, text-based interface, the game prioritizes accessibility and ease of play. It leverages Python’s logical structures, such as loops and conditionals, and randomization to create a seamless experience. Whether for entertainment or as a programming project, this cricket game serves as a fun, engaging way to combine technology and sports.
 </p>
-|<h4>
+<h4>
   The instruction are shown in the fig:-
 </h4>
 <img src = "instructions.png">
