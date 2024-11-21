@@ -14,4 +14,4 @@ With its simple, text-based interface, the game prioritizes accessibility and ea
 |<h4>
   The instruction are shown in the fig:-
 </h4>
-<img src = "">
+<img src = "instructions.png">
