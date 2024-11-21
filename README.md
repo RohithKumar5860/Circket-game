@@ -15,3 +15,7 @@ With its simple, text-based interface, the game prioritizes accessibility and ea
   The instruction are shown in the fig:-
 </h4>
 <img src = "instructions.png">
+<h4>
+  The tross and the first innings:-
+</h4>
+<img src = "firstinn.png">
