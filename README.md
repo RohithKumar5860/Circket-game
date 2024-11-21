@@ -19,3 +19,11 @@ With its simple, text-based interface, the game prioritizes accessibility and ea
   The tross and the first innings:-
 </h4>
 <img src = "firstinn.png">
+<h4>
+  The secound innings:-
+</h4>
+<img src = "secoundinn.png">
+<h4>
+  The final result is :-
+</h4>
+<img src = "result.png">
